@@ -4,16 +4,15 @@ body {
 
 a {
     color: white;
+    text-decoration: none;
 }
 
 .box1,
 .box2 {
-    font-size: 45px;
-    text-decoration-style: underline;
+    font-size: 40px;
     text-align: center;
 }
 
 .box1 {
-
-    padding: 60px;
+    padding: 20px;
 }
