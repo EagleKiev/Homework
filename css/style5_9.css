@@ -1,0 +1,36 @@
+.parent {
+    width: 560px;
+    height: 447px;
+    background: #80cdc6;
+    position: absolute;
+    /*clear: both;*/
+}
+
+.clouds {
+    float: right;
+}
+
+.rocks {
+    /*margin-bottom: 40px;
+    /*position: absolute;
+    /*float: none;*/
+}
+
+.rocks {
+    /*margin-bottom: 40px;*/
+    position: absolute;
+    /*float: none;*/
+}
+
+.ship {
+   margin-top: 290px;
+   margin-left: 10px; 
+   float: left;
+   position: absolute;
+}
+.water {
+   margin-top: 143px;
+   /*margin-left: 10px; 
+   float: left;*/
+   position: absolute;
+}

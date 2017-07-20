@@ -1,14 +1,45 @@
-.parent {
-    width: 440px;
-    min-height: 20px;
-    background: #FF6600;
-    clear: both;
+* {
+    margin: 0;
+    padding: 0;
 }
 
-.rows {
-    width: 100px;
+.wrap,
+.header,
+.main,
+.sidebar,
+.footer {
+    margin: 10px;
+    border: 2px solid;
+}
+
+.wrap {
+    height: 462px;
+    width: auto;
+}
+
+.header {
+    background-color: grey;
     height: 100px;
-    background: #00F1FF;
-    margin: 5px;
+    width: auto;
+}
+
+.main {
+    background-color: green;
+    float: left;
+    width: 58%;
+    height: 440px;
+}
+
+.sidebar {
+    background-color: yellow;
     float: right;
+    width: 38%;
+    height: 440px;
+}
+
+.footer {
+    background-color: red;
+    height: 150px;
+    clear: both;
+    width: auto;
 }
