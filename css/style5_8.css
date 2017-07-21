@@ -19,6 +19,7 @@
     border-left: 110px solid transparent;
     border-right: 110px solid transparent;
     border-bottom: 100px solid red;
+    position: fixed;
     margin: 35px;
     margin-top: -400px;
 }
@@ -27,7 +28,7 @@
     width: 20px;
     height: 60px;
     background: black;
-    position: absolute;
+    position: fixed;
     margin: -400px 90px;
 }
 
