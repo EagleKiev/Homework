@@ -24,3 +24,8 @@
 .water {
     margin-top: 333px;
 }
+
+.link {
+    position: fixed;
+    top: 460px;
+}
