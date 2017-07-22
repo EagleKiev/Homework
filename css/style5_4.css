@@ -3,13 +3,19 @@
     padding: 0;
 }
 
+.fullwrap,
 .wrap,
 .header,
-.main,
+.mainclearfix,
 .sidebar,
 .footer {
     margin: 10px;
     border: 2px solid;
+}
+
+.fullwrap {
+   
+    width: 98%;
 }
 
 .wrap {
@@ -20,10 +26,10 @@
 .header {
     background-color: grey;
     height: 100px;
-    width: auto;
+    width: 98%;
 }
 
-.main {
+.mainclearfix {
     background-color: green;
     float: left;
     width: 57%;
