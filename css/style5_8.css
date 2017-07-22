@@ -37,7 +37,7 @@
     height: 90px;
     background: brown;
     position: absolute;
-    margin: 210px 150px;
+    margin: 210px 140px;
 }
 
 .window {
@@ -45,5 +45,5 @@
     height: 40px;
     background: cyan;
     position: absolute;
-    margin: 170px 90px;
+    margin: 160px 85px;
 }
